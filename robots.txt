@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://omumiiqu.github.io/LNr/sitemap_index.txt
+Sitemap: https://omumiiqu.github.io/OjQ/sitemap_index.txt
+Sitemap: https://omumiiqu.github.io/XdK/sitemap_index.txt
+Sitemap: https://omumiiqu.github.io/cPH/sitemap_index.txt
